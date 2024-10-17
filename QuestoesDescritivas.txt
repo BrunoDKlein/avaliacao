@@ -1,7 +1,20 @@
 Questão 1:
+Um algoritmo é uma sequência de instruções ordenadas de forma lógica para a resolução de uma determinada tarefa ou problema
 
 Questão 2:
+É uma alocação de memória na qual podemos guardar dados. As variáveis tem nome, tipo e valor.
 
 Questão 3:
+->"public": é um modificador de acesso, que torna o método público
+->"double": é o tipo de retorno do método
+->"fazerDepósito": é o nome do método 
+->o que está entre parênteses: são os parâmetros passados para o método
 
 Questão 4:
+É recomendável utilizar quando se quer executar um determinado trecho de código várias vezes
+
+-> for: é utilizado quando se tem definido a quantidade de vezes que o código será executado, o número de repetições será pré-definido na declaração da estrutura
+
+-> while: é utilizado quando não sabemos quantas vezes o código precisa ser repetido. 
+
+-> do-while: tem quase o mesmo funcionamento que o while, a diferença é que com o uso dele teremos os comandos executados ao menos uma vez.
